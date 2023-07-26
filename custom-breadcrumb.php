@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Podcast 2nd level Page Template
+Template Name: Your Template Name
 */
 get_header(); 
 
